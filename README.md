@@ -11,3 +11,11 @@ https://github.com/TruptiPawar23/Fashion-Recommendation-System
 ###to use webUi using streamlit
 
 pip install streamlit==1.28.2
+
+
+
+###kaggle dataset link:
+
+1> small dataset:   https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
+
+2> large dataset:   https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
