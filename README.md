@@ -6,3 +6,8 @@ References link:
 https://github.com/sonu275981/Fashion-Recommender-system
 
 https://github.com/TruptiPawar23/Fashion-Recommendation-System
+
+
+###to use webUi using streamlit
+
+pip install streamlit==1.28.2
